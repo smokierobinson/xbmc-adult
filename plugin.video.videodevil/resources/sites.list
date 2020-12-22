@@ -344,6 +344,13 @@ director=VideoDevil
 icon=video.devil.image|xvideos.png
 url=xvideos.com.cfg
 ########################################################
+title=XTube
+type=rss
+genre=XTube
+director=VideoDevil
+icon=https://cdn1-s-hw-e1.xtube.com/v3_img/logo_xtube.png
+url=xtube.com.cfg
+########################################################
 title=XXXTubeDesi
 type=rss
 genre=Indian
